@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR2p0120/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2p0120/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 河北定縣八角廊四十號漢墓竹簡儒家者言
+  identifiers:
+    krp: KR2p0120
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0120.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0120_001-CHANT.yaml, hash: 'sha256:d8360b95132764cd2fcf9279c2533402f9b0673c4f59874fb717d6b109341661'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0120_001-CHANT.markers.yaml, hash: 'sha256:b83e5cff5f29d88394ab89770125c46fa1ce0334488aaec1afdd3df39129d6eb'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0120_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 896
+  label: 散見簡牘合輯河北定縣八角廊四十號漢墓竹簡儒家者言
+  type: section
+  level: 1
+hash: sha256:3ff8b16aceca3fa46c451069355a8a0eeba065571789ba0c0d06cef48b80631a
