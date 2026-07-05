@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0120_001.yaml, hash: 'sha256:cf02b1dee0d09d9ce2a9e0acbfebf207972a578bbcd9ddc448f7aa8d6281597e'}
+  - {seq: 1, filename: KR2p0120_001.yaml, hash: 'sha256:d8360b95132764cd2fcf9279c2533402f9b0673c4f59874fb717d6b109341661'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0120_001.markers.yaml, hash: 'sha256:0d6f3f41616296967cdb4e9e48220e24abaa2ef25f64dd17c3384881e73b1c1e'}
+  - {seq: 1, role: markers, filename: assets/KR2p0120_001.markers.yaml, hash: 'sha256:aa655e83ba25f7ffa73d7978da48ef88766461d84705913d90c8c6a4e413ad84'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 散見簡牘合輯河北定縣八角廊四十號漢墓竹簡儒家者言
   type: section
   level: 1
-hash: sha256:6f1689fafe256fdb8da7ce993383ce51b8bfaae7aab6c6687cb76c6b0bd5e136
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:fbfc1a792353410bf26bca31d202d48f11a9af5618fdf35c72ffda2aec57b4e3
