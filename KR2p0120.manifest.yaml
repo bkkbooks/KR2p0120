@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0120/v1
 canonical_location: https://kanripo.org/bkk/KR2p0120/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 河北定縣八角廊四十號漢墓竹簡儒家者言
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0120_001.yaml, hash: 'sha256:d8360b95132764cd2fcf9279c2533402f9b0673c4f59874fb717d6b109341661'}
+  - {seq: 1, filename: KR2p0120_001.yaml, hash: 'sha256:98010568d1bf9f5a907101d3c9a515ed0a12943f38c6c14322a16d2bfc8c72d0'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0120_001.markers.yaml, hash: 'sha256:aa655e83ba25f7ffa73d7978da48ef88766461d84705913d90c8c6a4e413ad84'}
+  - {seq: 1, role: markers, filename: assets/KR2p0120_001.markers.yaml, hash: 'sha256:ef420f5d4351e9a44a10ef97139094d6bf34a5459b5d1d13ce542f0aa17b459d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,4 +30,7 @@ table_of_contents:
   label: 散見簡牘合輯河北定縣八角廊四十號漢墓竹簡儒家者言
   type: section
   level: 1
-hash: sha256:fbfc1a792353410bf26bca31d202d48f11a9af5618fdf35c72ffda2aec57b4e3
+hash: sha256:46a1b165008dd471ec801e3e6e3ddd31087504a33775d3fad57ef22fcf7ad2ef
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
